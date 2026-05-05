@@ -46,8 +46,5 @@
 
 ---
 
-## Conclusion
-This project demonstrates Git operations including initialization, branching, merging, stashing, resetting, and reverting.
 
-## Conclusion
-This project demonstrates Git operations including initialization, branching, merging, stashing, resetting, and reverting.
+## ConclusiThis project demonstrates Git operations including initialization, branching, merging, stashing, resetting, and revertin
